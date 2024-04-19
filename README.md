@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td>
-**odin_recipes**
-</td>
+<th>
+Repository's name: odin_recipes
+</th>
 </tr>
 <tr>
 <td>
