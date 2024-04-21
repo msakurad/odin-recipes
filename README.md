@@ -18,7 +18,13 @@ Following the Odin Project's Foundation Course:
 ## Site
 ### Main page
 
+[Odin Recipes (index.html)](https://msakurad.github.io/odin-recipes/)
+
 ### Other pages: 3 recipes
+
+- [#1 My Lasagna](https://msakurad.github.io/odin-recipes/recipes/lasagna.html)
+- [#2 My Chicken](https://msakurad.github.io/odin-recipes/recipes/chicken.html)
+- [#3 My Macaroni](https://msakurad.github.io/odin-recipes/recipes/macaroni.html)
 
 ## Built with 
 
